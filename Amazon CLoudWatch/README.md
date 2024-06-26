@@ -1,0 +1,5 @@
+![cloudwatch](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/ae2adc30-6984-4e81-8dc5-e123b356748d)
+![cloudwatchobservation](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/ad08e19c-0ba1-488f-b3d4-a73b6d038310)
+![cloudwatchobservation1](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/615532d6-8d34-4af3-af23-3089d6d4d7e3)
+![loggraph](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/6f39b19b-19bc-4866-b4b0-b7e32a0df4cf)
+![logs](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/ca8ea48c-2f89-4c66-a27b-47c456431481)
