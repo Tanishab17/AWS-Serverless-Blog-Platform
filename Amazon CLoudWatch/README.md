@@ -3,3 +3,4 @@
 ![cloudwatchobservation1](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/615532d6-8d34-4af3-af23-3089d6d4d7e3)
 ![loggraph](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/6f39b19b-19bc-4866-b4b0-b7e32a0df4cf)
 ![logs](https://github.com/Tanishab17/AWS-Serverless-Blog-Platform/assets/100562690/ca8ea48c-2f89-4c66-a27b-47c456431481)
+[Account dashboard _ Amazon Simple Email Service _ ap-south-1.pdf](https://github.com/user-attachments/files/15993393/Account.dashboard._.Amazon.Simple.Email.Service._.ap-south-1.pdf)
