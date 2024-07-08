@@ -109,3 +109,5 @@ These AWS services collectively provide a scalable, reliable, and cost-effective
 ### Conclusion
 
 The Serverless Blog Platform architecture on AWS demonstrates a modern, scalable, and cost-effective solution for managing dynamic content and user interactions. By utilizing AWS Lambda, API Gateway, DynamoDB, SES, and CloudWatch, the platform achieves efficient data management, seamless user experience, and robust operational capabilities, making it suitable for various web applications requiring flexibility and scalability.
+
+#### Note: All the services used are terminated as it will be billed as per used 
